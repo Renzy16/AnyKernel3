@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kazuya Kernel by Renzy @ telegram
+kernel.string=Kazuya Kernel by Renzy665 @ telegram
 do.devicecheck=1
 do.modules=1
 do.systemless=0
